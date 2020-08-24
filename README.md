@@ -2,4 +2,4 @@ Eat Da Burger ! is an app where you can add a burger of your choice to keep tack
 also put it in the trash.
 
 ![](Burger.png)
-![](Burger2.png)
+![](Bureger2.png)
